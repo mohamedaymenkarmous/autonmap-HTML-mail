@@ -1,0 +1,21 @@
+{
+  "From" : "source@example.com",
+  "To" : "destination@example.com",
+  "DNSServers" : "8.8.8.8,8.8.4.4",
+  "ScanParameters" : "-p- --open -PS",
+  "MergeSubnets" : "true",
+  "NotifyAlwaysAfterScanIsFinished" : "false",
+  "NotifyIfNewHostUpIsDetected" : "true",
+  "NotifyIfNewHostDownIsDetected" : "false",
+  "NotifyIfNewPortUpIsDetected" : "true",
+  "NotifyIfNewPortDownIsDetected" : "false",
+  "NotifyIfNewHostnameIsDetected" : "false",
+  "NotifyIfNewOSInfoIsDetected" : "false",
+  "ShowNewHostUp" : "true",
+  "ShowNewHostDown" : "true",
+  "ShowNewPortUp" : "true",
+  "ShowNewPortDown" : "true",
+  "ShowNewHostnameInfo" : "true",
+  "ShowNewOSInfo" : "true",
+  "HistoryFilesNumber" : "100"
+}
